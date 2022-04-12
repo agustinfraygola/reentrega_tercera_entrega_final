@@ -1,0 +1,12 @@
+.fachada {
+    background-color: rgb(29,117,222);
+    margin-top:20px;
+    width: 650px;
+    height: 450px;
+    margin-left: 380px;
+}
+
+.textFachada {
+    font-size: medium;
+    font-weight: bold;
+}
